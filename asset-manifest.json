@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/%7BReact-Yalantis%7D/static/css/main.87a4e275.chunk.css",
-    "main.js": "/%7BReact-Yalantis%7D/static/js/main.252733ce.chunk.js",
-    "main.js.map": "/%7BReact-Yalantis%7D/static/js/main.252733ce.chunk.js.map",
-    "runtime-main.js": "/%7BReact-Yalantis%7D/static/js/runtime-main.01de21f6.js",
-    "runtime-main.js.map": "/%7BReact-Yalantis%7D/static/js/runtime-main.01de21f6.js.map",
-    "static/js/2.f8161ba5.chunk.js": "/%7BReact-Yalantis%7D/static/js/2.f8161ba5.chunk.js",
-    "static/js/2.f8161ba5.chunk.js.map": "/%7BReact-Yalantis%7D/static/js/2.f8161ba5.chunk.js.map",
-    "static/js/3.14cdd0ed.chunk.js": "/%7BReact-Yalantis%7D/static/js/3.14cdd0ed.chunk.js",
-    "static/js/3.14cdd0ed.chunk.js.map": "/%7BReact-Yalantis%7D/static/js/3.14cdd0ed.chunk.js.map",
-    "index.html": "/%7BReact-Yalantis%7D/index.html",
-    "static/css/main.87a4e275.chunk.css.map": "/%7BReact-Yalantis%7D/static/css/main.87a4e275.chunk.css.map",
-    "static/js/2.f8161ba5.chunk.js.LICENSE.txt": "/%7BReact-Yalantis%7D/static/js/2.f8161ba5.chunk.js.LICENSE.txt"
+    "main.css": "/React-Yalantis/static/css/main.87a4e275.chunk.css",
+    "main.js": "/React-Yalantis/static/js/main.252733ce.chunk.js",
+    "main.js.map": "/React-Yalantis/static/js/main.252733ce.chunk.js.map",
+    "runtime-main.js": "/React-Yalantis/static/js/runtime-main.9f7ccf8b.js",
+    "runtime-main.js.map": "/React-Yalantis/static/js/runtime-main.9f7ccf8b.js.map",
+    "static/js/2.f8161ba5.chunk.js": "/React-Yalantis/static/js/2.f8161ba5.chunk.js",
+    "static/js/2.f8161ba5.chunk.js.map": "/React-Yalantis/static/js/2.f8161ba5.chunk.js.map",
+    "static/js/3.14cdd0ed.chunk.js": "/React-Yalantis/static/js/3.14cdd0ed.chunk.js",
+    "static/js/3.14cdd0ed.chunk.js.map": "/React-Yalantis/static/js/3.14cdd0ed.chunk.js.map",
+    "index.html": "/React-Yalantis/index.html",
+    "static/css/main.87a4e275.chunk.css.map": "/React-Yalantis/static/css/main.87a4e275.chunk.css.map",
+    "static/js/2.f8161ba5.chunk.js.LICENSE.txt": "/React-Yalantis/static/js/2.f8161ba5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.01de21f6.js",
+    "static/js/runtime-main.9f7ccf8b.js",
     "static/js/2.f8161ba5.chunk.js",
     "static/css/main.87a4e275.chunk.css",
     "static/js/main.252733ce.chunk.js"
