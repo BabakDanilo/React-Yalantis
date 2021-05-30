@@ -2,4 +2,5 @@
 ## Scripts
 
 npm install
-npm run start
+
+# https://babakdanilo.github.io/React-Yalantis/
